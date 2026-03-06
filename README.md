@@ -18,7 +18,7 @@ Scalable APIs • Clean Architecture • Real Systems
   <a href="https://mohamedali10722.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1HVO1NMITkmmXPmpz4shadKgOUy-q-1eS/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ladLX2xShEnNVCj7J4EhchrywyrocHyF/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄View%20CV-brightgreen?style=for-the-badge" />
   </a>
 </p>
